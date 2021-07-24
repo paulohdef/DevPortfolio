@@ -1,0 +1,45 @@
+.cardLargura{
+    max-width: 18rem;
+
+}
+.imgCarousel{
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 500px;
+}
+.logoText{
+    font-family: 'Share Tech', sans-serif;
+}
+.imgCarousel2{
+    object-fit:cover;
+    object-position: 0 40%;
+    height: 500px;
+}
+.imgCarousel3{
+    object-fit: cover;
+    object-position: 0 20%;
+    height: 500px;
+}
+.h2Carousel{
+    text-shadow: 2px 2px 2px  black;
+    font-family: 'Share Tech', sans-serif;
+
+}
+
+.fonteEspecial{
+    color:darkred;
+}
+.cardImg{
+    object-fit:cover;
+ 
+    height: 200px;
+}
+
+.btnCor {
+    background-color: grey;
+    color:white;
+}
+.cardBorder{
+    border-color:grey;
+}
+
